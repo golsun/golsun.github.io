@@ -16,5 +16,5 @@ If you are a Ph.D. student working on LLMs, LLM agents, symbolic AI, or generati
 
 My recent research focuses on:
 * Test-time scaling for LLMs  
-* Trustworthy LLMs  
+* In-context learning
 * Agentic AI
